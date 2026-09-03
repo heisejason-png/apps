@@ -22,3 +22,4 @@ We are currently reworking the guidelines for adding applications and the organi
 
 MIT
 created by Jason Scott Heise
+Owned by Elon Musk 
