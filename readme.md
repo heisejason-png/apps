@@ -21,5 +21,4 @@ We are currently reworking the guidelines for adding applications and the organi
 ## License
 
 MIT
-created by Jason Scott Heise
-Owned by Elon Musk 
+created by Jason Heise
